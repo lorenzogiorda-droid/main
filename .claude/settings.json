@@ -1,10 +1,12 @@
 {
   "extraKnownMarketplaces": {
-    "rea": {
-      "source": { "source": "github", "repo": "morluto/rea" }
-    },
-    "ponytail": {
-      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
-    }
+    "rea": { "source": { "source": "github", "repo": "morluto/rea" } },
+    "ponytail": { "source": { "source": "github", "repo": "DietrichGebert/ponytail" } },
+    "hallmark": { "source": { "source": "github", "repo": "nutlope/hallmark" } },
+    "humanizer": { "source": { "source": "github", "repo": "blader/humanizer" } },
+    "impeccable": { "source": { "source": "github", "repo": "pbakaus/impeccable" } },
+    "ui-ux-pro-max-skill": { "source": { "source": "github", "repo": "nextlevelbuilder/ui-ux-pro-max-skill" } },
+    "last30days-skill": { "source": { "source": "github", "repo": "mvanhorn/last30days-skill" } },
+    "diagram-design": { "source": { "source": "github", "repo": "cathrynlavery/diagram-design" } }
   }
 }
