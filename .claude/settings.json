@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "rea": {
+      "source": { "source": "github", "repo": "morluto/rea" }
+    },
+    "ponytail": {
+      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
+    }
+  }
+}
